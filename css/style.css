@@ -1,0 +1,24 @@
+*{
+    outline: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+header{
+    height: 134px;
+    max-width: 1500px;
+    margin: 0 auto;
+    display: flex;
+}
+
+main{
+    max-width: 1500px;
+    margin: 0 auto;
+}
